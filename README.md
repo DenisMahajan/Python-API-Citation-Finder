@@ -7,7 +7,7 @@ This project fetches data from an API endpoint, processes it to extract and summ
 1. Clone the repository:
     ```bash
     git clone https://github.com/DenisMahajan/Python-API-Citation-Finder.git
-    cd api-citation-finder
+    cd Python-API-Citation-Finder
     ```
 
 2. Create and activate a virtual environment:
@@ -25,10 +25,10 @@ This project fetches data from an API endpoint, processes it to extract and summ
 
 1. Run the Streamlit app:
     ```bash
-    streamlit run app.py
+    streamlit run app1.py
     ```
 
-2. Enter the API URL and click "Fetch and Process Data".
+2. And click "Fetch and Process Data".
 
 ## Edge Cases
 
